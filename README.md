@@ -1,6 +1,8 @@
+My Sublime Text 3 config
+
 ```
 {
-	"auto_complete": true,
+    "auto_complete": true,
     "auto_indent": true,
     "default_encoding": "UTF-8",
     "detect_indentation": true,
